@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CofrinhoDigital.Core/CofrinhoDigital.Core.csproj" />
+    <Project Path="src/CofrinhoDigital.UI/CofrinhoDigital.UI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CofrinhoDigital.Tests/CofrinhoDigital.Tests.csproj" />
+  </Folder>
+</Solution>

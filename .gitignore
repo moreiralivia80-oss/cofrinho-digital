@@ -1,0 +1,27 @@
+# Resultados de build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+TestResults/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Dados locais do aplicativo
+transacoes.json
+*.tmp
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
